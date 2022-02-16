@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource is a diagrammatic representation of the functions of a
   sponsor and an assessor in a conflict assessment.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2005/8169c0957d686ada1cc076c3820790de_lect6_conflict.pdf
+file: /media/courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2005/8169c0957d686ada1cc076c3820790de_lect6_conflict.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lect6_conflict.pdf
 uid: 8169c095-7d68-6ada-1cc0-76c3820790de
