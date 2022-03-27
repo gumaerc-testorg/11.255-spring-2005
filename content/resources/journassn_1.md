@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: de540165-4a4c-f1bb-7ae8-cb3a4559f987
 resourcetype: Document
 title: journassn_1.pdf
 uid: c7d3e910-4edd-e01e-da6d-6556c3166dd5

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: c510740e-2d6e-ce80-2834-2d7da0468924
 resourcetype: Document
 title: l13_facilitator.pdf
 uid: c0f1088e-80d5-1c79-e2a2-074be59f928c

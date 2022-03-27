@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: c510740e-2d6e-ce80-2834-2d7da0468924
 resourcetype: Document
 title: l7_redstone_debr.pdf
 uid: 2b2a0504-81f6-4a6b-ee06-c561fbce7da4
