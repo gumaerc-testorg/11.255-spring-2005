@@ -1,17 +1,20 @@
 ---
 content_type: page
+description: This section provides a series of negotiation games used in class to
+  help students explore the topics discussed.
+draft: false
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 166b618b-5c54-6f24-fe0a-64bed8cb3f70
 ---
-
 Below are a series of negotiation games used in class to help students explore the topics discussed. Complete versions of these games can be ordered from the [Program on Negotiation](https://www.pon.harvard.edu/) at Harvard University.
 
-Game 1: Appelton-Baker
-----------------------
+## Game 1: Appleton-Baker
 
 ### Scenario
 
-The Appletons and Bakers own homes on adjacent parcels of land. The Appletons are selling their house, and they also want to sell the half-lot which rests between their home and the Baker's. The purchasers of their home are not interested in buying the lot. The Bakers are interested in the lot. There is a large bargaining zone ($5,000 to $20,000), but neither party knows of the other party's interests.
+The Appletons and Bakers own homes on adjacent parcels of land. The Appletons are selling their house, and they also want to sell the half-lot which rests between their home and the Bakers'. The purchasers of their home are not interested in buying the lot. The Bakers are interested in the lot. There is a large bargaining zone ($5,000 to $20,000), but neither party knows of the other party's interests.
 
 Note: After debriefing, it is an option to have a five-minute re-negotiation once everyone knows the actual constraints placed on the other party.
 
@@ -25,8 +28,7 @@ Advantages and disadvantages of disclosure are also illustrated.
 
 Full scenario available at: [Appleton vs. Baker](https://www.pon.harvard.edu/shop/appleton-vs-baker/).
 
-Game 2: Negotiated Development in Redstone
-------------------------------------------
+## Game 2: Negotiated Development in Redstone
 
 ### Scenario
 
@@ -48,8 +50,7 @@ Focusing on issues that are valued differently will allow participants to assess
 
 Full scenario available at: [Negotiated Development in Redstone](https://www.pon.harvard.edu/shop/negotiated-development-in-redstone/).
 
-Game 3: Three-Party Coalition Exercise
---------------------------------------
+## Game 3: Three-Party Coalition Exercise
 
 ### Scenario
 
@@ -75,8 +76,7 @@ The exercise can also be used to raise questions about the basis for arbitrating
 
 Full scenario available at: [Three-Party Coalition Exercise](https://www.pon.harvard.edu/shop/three-party-coalition-exercise/).
 
-Game 4: Harborco
-----------------
+## Game 4: Harborco
 
 ### Scenario
 
@@ -106,8 +106,7 @@ The advantages of caucusing can be explored. In some cases, players will initiat
 
 Full scenario available at: [Harborco](https://www.pon.harvard.edu/shop/harborco/).
 
-Game 5: Dirty Stuff II
-----------------------
+## Game 5: Dirty Stuff II
 
 ### Scenario
 
@@ -135,8 +134,7 @@ The usefulness of a single negotiating text is illustrated. This gives parties a
 
 Full scenario available at: [DirtyStuff II](https://www.pon.harvard.edu/shop/dirtystuff-ii/).
 
-Game 6: Carson Extension
-------------------------
+## Game 6: Carson Extension
 
 ### Scenario
 
@@ -154,8 +152,7 @@ The need for a neutral "process manager" of some sort is also illustrated, as th
 
 Full scenario available at: [Carson Extension](https://www.pon.harvard.edu/shop/carson-extension/).
 
-Game 7: Westville
------------------
+## Game 7: Westville
 
 ### Overview
 
@@ -169,21 +166,20 @@ The situation is a composite of local cases. G. Hutter, representative of the We
 
 Three issues must be negotiated. Because the parties' priorities differ, the players have opportunities to exploit their differences, to trade across issues, and to achieve joint gains. But they can reach poor compromises too, agreements in which both parties do much worse than they need to. In all, thirteen agreements are possible. Comparing agreements the players achieve allows for discussion of the following points:
 
-*   Differences between joint gains and compromises.
-*   Tensions between creating and claiming value.
-*   The centrality of trading, exploiting differences in relative priorities.
-*   Issues of power and representation of affected parties.
-*   Roles of third party helpers and questions about neutrality.
-*   Mediating strategies when mediators have multiple goals.
-*   Perceptions and realities of "even-handedness" and neutrality.
-*   Sources of mediators' bias.
-*   Sources of mediators' influence.
-*   Activist vs. neutral mediator roles.
+- Differences between joint gains and compromises.
+- Tensions between creating and claiming value.
+- The centrality of trading, exploiting differences in relative priorities.
+- Issues of power and representation of affected parties.
+- Roles of third party helpers and questions about neutrality.
+- Mediating strategies when mediators have multiple goals.
+- Perceptions and realities of "even-handedness" and neutrality.
+- Sources of mediators' bias.
+- Sources of mediators' influence.
+- Activist vs. neutral mediator roles.
 
 Full scenario available at: [Westville](https://www.pon.harvard.edu/shop/westville-mediation-strategies-in-community-planning/).
 
-Game 8: River Bend
-------------------
+## Game 8: River Bend
 
 ### Scenario
 

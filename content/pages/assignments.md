@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides guidelines and instructions for the bi-weekly journal
+  entries assigned for the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: de540165-4a4c-f1bb-7ae8-cb3a4559f987
 ---
@@ -37,7 +42,7 @@ ASSIGNMENTS
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Journal 1 ([PDF]({{< baseurl >}}/resources/journassn_1))
+Journal 1 ({{% resource_link c7d3e910-4edd-e01e-da6d-6556c3166dd5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -55,7 +60,7 @@ Journal 1 due
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Journal 2 ([PDF]({{< baseurl >}}/resources/journalassn_2))
+Journal 2 ({{% resource_link 58258e6c-4257-fa5c-21f0-2512cea03bcf "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -64,7 +69,7 @@ Journal 2 ([PDF]({{< baseurl >}}/resources/journalassn_2))
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Journal 2 due, Journal 3 ([PDF]({{< baseurl >}}/resources/journalassn_3))
+Journal 2 due, Journal 3 ({{% resource_link 0dee8e47-7e5d-62f0-4e91-7cc8d9b60a1e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -73,7 +78,7 @@ Journal 2 due, Journal 3 ([PDF]({{< baseurl >}}/resources/journalassn_3))
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Journal 3 due, Journal 4 ([PDF]({{< baseurl >}}/resources/journalassn_4))
+Journal 3 due, Journal 4 ({{% resource_link 13a79f67-139f-51e0-4246-f53c713cd88a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -82,7 +87,7 @@ Journal 3 due, Journal 4 ([PDF]({{< baseurl >}}/resources/journalassn_4))
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Journal 4 due, Journal 5 ([PDF]({{< baseurl >}}/resources/journalassn_5))
+Journal 4 due, Journal 5 ({{% resource_link e6a3bb5f-a459-f764-5ff7-e32b4906dac2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
