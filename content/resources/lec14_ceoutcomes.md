@@ -6,6 +6,7 @@ file: /courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-sp
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec14_ceoutcomes.pdf
 uid: 52a672b6-99c6-b81a-b08c-5c4c41c2e6b6
 ---
 This resource discusses two packages based on the scientific research/gathering of information by the environmental engineer of Army Corps of Engineers.
-

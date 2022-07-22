@@ -6,6 +6,7 @@ file: /courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-sp
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: journalassn_4.pdf
 uid: 13a79f67-139f-51e0-4246-f53c713cd88a
 ---
 This resource contains four questions based on Humboldt simulation, and public disputes.
-

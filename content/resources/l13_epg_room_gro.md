@@ -5,6 +5,7 @@ file: /courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-sp
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: l13_epg_room_gro.pdf
 uid: 14c76b91-d1ee-4c51-4e67-fdf590acc97c
 ---
 This resource discusses about dirty stuff in five conditions.
-

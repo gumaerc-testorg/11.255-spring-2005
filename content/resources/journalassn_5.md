@@ -6,6 +6,7 @@ file: /courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-sp
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: journalassn_5.pdf
 uid: e6a3bb5f-a459-f764-5ff7-e32b4906dac2
 ---
 This resource contains four questions based on River Bend case, value-based disagreements, and  national policy dialogues.
-

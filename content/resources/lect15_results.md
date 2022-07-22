@@ -5,6 +5,7 @@ file: /courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-sp
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lect15_results.pdf
 uid: 23cec295-20d5-5cb4-da73-798f8899139f
 ---
 This resource contains the possible results in Westville.
-

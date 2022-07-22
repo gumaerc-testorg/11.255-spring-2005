@@ -6,6 +6,7 @@ file: /courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-sp
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lect6_conflict.pdf
 uid: 8169c095-7d68-6ada-1cc0-76c3820790de
 ---
 This resource is a diagrammatic representation of the functions of a sponsor and an assessor in a conflict assessment.
-

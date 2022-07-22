@@ -6,6 +6,7 @@ file: /courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-sp
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: journalassn_3.pdf
 uid: 0dee8e47-7e5d-62f0-4e91-7cc8d9b60a1e
 ---
 This resource contains five questions based on Harborco simulation, negotiation, and Dirty Stuff simulation.
-

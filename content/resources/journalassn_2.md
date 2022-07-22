@@ -6,6 +6,7 @@ file: /courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-sp
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: journalassn_2.pdf
 uid: 58258e6c-4257-fa5c-21f0-2512cea03bcf
 ---
 This resource contains five questions based on stakeholders in public disputes, redstone negotiation, and readings so far.
-

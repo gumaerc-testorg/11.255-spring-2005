@@ -5,6 +5,7 @@ file: /courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-sp
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: final_exam_prep.pdf
 uid: 82cbd4e1-8857-6356-55c7-9009bb32ad50
 ---
 Questions that the students should prepare for the final exam.
-
