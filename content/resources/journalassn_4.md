@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource contains four questions based on Humboldt simulation, and
   public disputes.
-file: /courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2005/13a79f67139f51e04246f53c713cd88a_journalassn_4.pdf
+file: /ol-ocw-studio-app/courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2005/13a79f67139f51e04246f53c713cd88a_journalassn_4.pdf
+file_size: 33472
 file_type: application/pdf
 learning_resource_types:
 - Assignments

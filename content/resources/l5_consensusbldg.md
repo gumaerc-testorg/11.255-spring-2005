@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource is a diagrammatic representation of convening, clarifying
   responsibilities, deliberating, deciding, and implementing aggrements.
-file: /courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2005/52c5b54abe69ec03f9683123dcab9b22_l5_consensusbldg.pdf
+file: /ol-ocw-studio-app/courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2005/52c5b54abe69ec03f9683123dcab9b22_l5_consensusbldg.pdf
+file_size: 84134
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

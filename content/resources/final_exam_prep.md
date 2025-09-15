@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Questions that the students should prepare for the final exam.
-file: /courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2005/82cbd4e18857635655c79009bb32ad50_final_exam_prep.pdf
+file: /ol-ocw-studio-app/courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2005/82cbd4e18857635655c79009bb32ad50_final_exam_prep.pdf
+file_size: 42206
 file_type: application/pdf
 learning_resource_types:
 - Assignments

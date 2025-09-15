@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains the possible results in Westville.
-file: /courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2005/23cec29520d55cb4da73798f8899139f_lect15_results.pdf
+file: /ol-ocw-studio-app/courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2005/23cec29520d55cb4da73798f8899139f_lect15_results.pdf
+file_size: 54624
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

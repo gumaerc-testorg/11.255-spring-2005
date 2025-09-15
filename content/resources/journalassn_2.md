@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource contains five questions based on stakeholders in public
   disputes, redstone negotiation, and readings so far.
-file: /courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2005/58258e6c4257fa5c21f02512cea03bcf_journalassn_2.pdf
+file: /ol-ocw-studio-app/courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2005/58258e6c4257fa5c21f02512cea03bcf_journalassn_2.pdf
+file_size: 33569
 file_type: application/pdf
 learning_resource_types:
 - Assignments

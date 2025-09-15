@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource discusses about how to create joint gains, the mutual gains
   approach, and managing the opportunities and dangers involved in setting aspirations.
-file: /courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2005/2b2a050481f64a6bee06c561fbce7da4_l7_redstone_debr.pdf
+file: /ol-ocw-studio-app/courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2005/2b2a050481f64a6bee06c561fbce7da4_l7_redstone_debr.pdf
+file_size: 14847
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

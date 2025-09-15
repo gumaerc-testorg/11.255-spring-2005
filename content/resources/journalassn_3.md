@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource contains five questions based on Harborco simulation, negotiation,
   and Dirty Stuff simulation.
-file: /courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2005/0dee8e477e5d62f04e917cc8d9b60a1e_journalassn_3.pdf
+file: /ol-ocw-studio-app/courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2005/0dee8e477e5d62f04e917cc8d9b60a1e_journalassn_3.pdf
+file_size: 32791
 file_type: application/pdf
 learning_resource_types:
 - Assignments

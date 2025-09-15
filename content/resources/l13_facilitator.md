@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource discusses the tasks and attributes of a facilitator.
-file: /courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2005/c0f1088e80d51c79e2a2074be59f928c_l13_facilitator.pdf
+file: /ol-ocw-studio-app/courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2005/c0f1088e80d51c79e2a2074be59f928c_l13_facilitator.pdf
+file_size: 62543
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
