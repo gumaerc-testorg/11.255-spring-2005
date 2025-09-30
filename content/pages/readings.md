@@ -165,7 +165,7 @@ Avruch, Kevin. *Culture and Conflict Resolution*. Washington, DC: United States 
 {{< tdclose >}}{{< tdopen >}}
 Mediator Ethics
 {{< tdclose >}}{{< tdopen >}}
-Gensberg, Alexis. *Mediating Inequality: Mediators' perspectives in power imbalances in public disputes*. Cambridge, MA: Program on Negotiation. 2003, pp. 4, 23-31, 60-63, 71-72. ([PDF](https://dspace.mit.edu/handle/1721.1/66400))
+Gensberg, Alexis. *Mediating Inequality: Mediators' perspectives in power imbalances in public disputes*. Cambridge, MA: Program on Negotiation. 2003, pp. 4, 23-31, 60-63, 71-72. ({{% resource_link "7cd3b392-acbe-4809-972b-d6d9ad5f97c1" "PDF" %}})
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
 {{< tdclose >}}{{< tdopen >}}
